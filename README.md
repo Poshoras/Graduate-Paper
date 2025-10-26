@@ -2,3 +2,5 @@
 强化学习是AI agent实现的底层逻辑。
 
 核心是使用Q-learning
+
+https://zhuanlan.zhihu.com/p/632686242
